@@ -1,0 +1,22 @@
+{
+  "name": "jquery-resize",
+  "main": "jquery-resize.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/corydorning/jquery-resize",
+  "authors": [
+    "Cory Dorning <cory@dorning.me>"
+  ],
+  "description": "The jquery-resize plugin helps fix an IE8 and older bug where <select> menu's with a fixed width cuts off the option text that exceeds that the fixed width.",
+  "keywords": [
+    "jquery",
+    "resize"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
